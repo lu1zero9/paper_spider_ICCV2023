@@ -3,6 +3,3 @@
 
 ## 功能
 可以帮助研究人员、学生或任何对ICCV 2023会议论文感兴趣的人快速获取与特定主题相关的论文信息。
-
-## 使用方法
-自定义关键词列表，例如keywords = ["semi-supervised", "omni-supervised","segment"]即爬取和semi-supervised、omni-supervised、segment主题相关的论文。
